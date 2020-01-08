@@ -1,4 +1,5 @@
 package com.testdubbo.service;
 
-public class ServiceApi {
+public interface ServiceApi {
+    String sendMessage(String message);
 }

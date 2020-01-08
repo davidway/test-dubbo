@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * Hello world!
  */
-public class App {
+public class Provider {
     public static void main(String[] args)
     {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("application-provider.xml");
